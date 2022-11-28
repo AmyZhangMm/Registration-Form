@@ -3,24 +3,15 @@
 
 Challenges I faced while completing this page and waht I found a solution. I spent some time on self learning and iterating my codes on the following areas while programmin this web page:
 
+1. How to edit the relevant code of mobile.
+![image](https://user-images.githubusercontent.com/102950347/204204849-25a41851-3861-4f1b-adf5-17504e425de4.png)
 
-1. ![image](https://user-images.githubusercontent.com/102950347/204204849-25a41851-3861-4f1b-adf5-17504e425de4.png)
-How to edit the relevant code of mobile.
 
 The knowledge of input-group class.
+![image](https://user-images.githubusercontent.com/102950347/204206813-11c59068-b48f-4b7e-bba4-8317ac093954.png)
 
-<div class="col-md-6 mb-4">
-                        <label for="mobile" class="control-label">Mobile Number</label>
-                        <div class="input-group">
-                            <div class="input-group-prepend">
-                              <span class="input-group-text">+65</span>
-                            </div>
-                            <input type="phone" class="form-control" placeholder="87654321" id="mobile" name="mobile">
-                        </div>
-                    </div>
                     
 https://www.w3schools.com/bootstrap4/bootstrap_forms_input_group.asp 
-
 Bootstrap 4 Input Groups
 The .input-group class is a container to enhance an input by adding an icon, text or a button in front or behind the input field as a "help text".
 Use .input-group-prepend to add the help text in front of the input, and .input-group-append to add it behind the input.
@@ -46,10 +37,7 @@ Standard rules for all three form layouts:
   3. <textarea> tag – bootstrap
 https://www.w3schools.com/tags/tag_textarea.asp 
 The <textarea> element is often used in a form, to collect user inputs like comments or reviews.
-A text area can hold an unlimited number of characters, and the text renders in a fixed-width font (usually Courier).
-The size of a text area is specified by the cols and rows attributes (or with CSS).
-The name attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the text area will be submitted).
-The id attribute is needed to associate the text area with a label. 
+A text area can hold an unlimited number of characters, and the text renders in a fixed-width font (usually Courier). The size of a text area is specified by the cols and rows attributes (or with CSS).The name attribute is needed to reference the form data after the form is submitted (if you omit the name attribute, no data from the text area will be submitted). The id attribute is needed to associate the text area with a label. 
 
   
   
