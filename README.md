@@ -19,14 +19,13 @@ At last, add the .input-group-text class to style the specified help text.
 
 
 
-
-2.	<form> tag – bootstrap 
+2.	<form> tag – bootstrap - https://www.w3schools.com/bootstrap/bootstrap_forms.asp 
 -	form action="/action_page.php" – this tag will help me to collect all my input data and send to another path/location to be shown.
-https://www.w3schools.com/bootstrap/bootstrap_forms.asp 
 
 Standard rules for all three form layouts:
+  
  - Wrap labels and form controls in <div class="form-group"> (needed for optimum spacing) – if I remove the attribute, the space between 2 input text will become smaller. 
- - Add class .form-control to all textual <input>, <textarea>, and <select> elements – this will make the input box 100% width of the screen. Once remove, the width will change to the default width. So this depends on how you want my input box look like.
+ - Add class .form-control to all textual <input>, <textarea>, and <select> elements – this will make the input box 100% width of the screen. Once remove, the width   will change to the default width. So this depends on how you want my input box look like.
  - Vertical form (this is default)
  - Horizontal form (Add class .form-horizontal to the <form> element)
 
